@@ -65,7 +65,7 @@ We have a dual branch at "[Analytic Federated Learning.](https://github.com/ZHUA
 
 ## Acknowledgment
 
-The implementation of the codes is partly referred to [PyCIL](https://github.com/TsingZ0/PFLlib) and [ADC](https://github.com/dipamgoswami/ADC). We sincerely appreciate for their contributions.
+The implementation of the codes is partly referred to [PyCIL](https://github.com/LAMDA-CL/PyCIL) and [ADC](https://github.com/dipamgoswami/ADC). We sincerely appreciate for their contributions.
 
 ## Cite Our Paper
 If you find this paper useful, please consider staring this repo and citing our paper:
