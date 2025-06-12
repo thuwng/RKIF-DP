@@ -61,7 +61,7 @@ Our work belongs to the branch of analytic continual learning, you can find othe
 
 ## Dual Branch
 
-We have a dual branch at "[Analytic Federated Learning.](https://github.com/ZHUANGHP/Analytic-federated-learning)" 
+We have a dual branch of analytic continual learning at "[Analytic Federated Learning.](https://github.com/ZHUANGHP/Analytic-federated-learning)" 
 
 ## Acknowledgment
 
