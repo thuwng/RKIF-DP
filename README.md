@@ -1,6 +1,6 @@
 <div align="center">
   
-# ICML' 2025】Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning
+# 【ICML' 2025】Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning
 ###  Run He, Di Fang, Yichen Xu, Yawen Cui, Ming Li, Cen Chen, Ziqian Zeng, Huiping Zhuang* 
   
 </div>
