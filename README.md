@@ -57,11 +57,11 @@ Part of arguments are listed followed.
 
 ## Analytic Continual Learning
 
-Our work belongs to the branch of analytic continual learning, you can find other works at "[Analytic Continual Learning.](https://github.com/ZHUANGHP/Analytic-continual-learning)".
+Our work belongs to the branch of analytic continual learning, you can find other works at "[Analytic Continual Learning.](https://github.com/ZHUANGHP/Analytic-continual-learning)"
 
 ## Dual Branch
 
-We have a dual branch of analytic continual learning at "[Analytic Federated Learning.](https://github.com/ZHUANGHP/Analytic-federated-learning)" 
+We have a dual branch of analytic federated learning which leverages the least-squares to achieve invariance in federated learning. If you are interested, the codes are available at "[Analytic Federated Learning.](https://github.com/ZHUANGHP/Analytic-federated-learning)" 
 
 ## Acknowledgment
 
@@ -70,13 +70,10 @@ The implementation of the codes is partly referred to [PyCIL](https://github.com
 ## Cite Our Paper
 If you find this paper useful, please consider staring this repo and citing our paper:
 ```bib
-@misc{He_2025_DPCR,
-      title={Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning}, 
-      author={Run He and Di Fang and Yicheng Xu and Yawen Cui and Ming Li and Cen Chen and Ziqian Zeng and Huiping Zhuang},
-      year={2025},
-      eprint={2503.05423},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.05423}, 
+@misc{He_ICML2025_DPCR,
+  title = 	 {Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning},
+  author =       {Run He and Di Fang and Yicheng Xu and Yawen Cui and Ming Li and Cen Chen and Ziqian Zeng and Huiping Zhuang},
+  booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  year = 	 {2025},
 }
 ```
