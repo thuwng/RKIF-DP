@@ -1,0 +1,19 @@
+{
+    "prefix": "dpcr_cifar_10_non_shuffle",
+    "dataset": "cifar100",
+    "memory_size": 0,
+    "fixed_memory": false,
+    "shuffle": false,
+    "cosine": true,
+    "init_cls": 10,
+    "increment": 10,
+    "model_name": "lwf",
+    "convnet_type": "resnet18",
+    "batch_size" : 128,
+    "device": ["0"],
+    "resume": false,
+    "model_dir": "save_model/cifar100/dpcr_cifar_10_non_shuffle/",
+    "DPCR": true,
+    "rg": 200,
+    "rg_tssp": 1e-9
+}
